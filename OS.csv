@@ -1,0 +1,890 @@
+Survival time;Status;Paper;Subgroup;Phase;Age;CART_Naive;CART_Target;costim domain
+0.29;0;4;;2;Adults;Yes;CD19;41BB
+0.665;0;4;;2;Adults;Yes;CD19;41BB
+0.929;0;4;;2;Adults;Yes;CD19;41BB
+1.137;1;4;;2;Adults;Yes;CD19;41BB
+1.288;0;4;;2;Adults;Yes;CD19;41BB
+1.556;0;4;;2;Adults;Yes;CD19;41BB
+1.89;0;4;;2;Adults;Yes;CD19;41BB
+2.111;1;4;;2;Adults;Yes;CD19;41BB
+2.18;0;4;;2;Adults;Yes;CD19;41BB
+2.203;1;4;;2;Adults;Yes;CD19;41BB
+2.508;0;4;;2;Adults;Yes;CD19;41BB
+2.808;0;4;;2;Adults;Yes;CD19;41BB
+3.054;1;4;;2;Adults;Yes;CD19;41BB
+3.054;1;4;;2;Adults;Yes;CD19;41BB
+3.128;1;4;;2;Adults;Yes;CD19;41BB
+3.162;0;4;;2;Adults;Yes;CD19;41BB
+3.485;0;4;;2;Adults;Yes;CD19;41BB
+3.753;0;4;;2;Adults;Yes;CD19;41BB
+3.983;0;4;;2;Adults;Yes;CD19;41BB
+4.196;1;4;;2;Adults;Yes;CD19;41BB
+4.418;0;4;;2;Adults;Yes;CD19;41BB
+4.686;0;4;;2;Adults;Yes;CD19;41BB
+5.019;0;4;;2;Adults;Yes;CD19;41BB
+5.118;1;4;;2;Adults;Yes;CD19;41BB
+5.118;1;4;;2;Adults;Yes;CD19;41BB
+5.63;0;4;;2;Adults;Yes;CD19;41BB
+5.63;0;4;;2;Adults;Yes;CD19;41BB
+5.63;0;4;;2;Adults;Yes;CD19;41BB
+6.184;1;4;;2;Adults;Yes;CD19;41BB
+6.358;0;4;;2;Adults;Yes;CD19;41BB
+6.618;0;4;;2;Adults;Yes;CD19;41BB
+6.886;0;4;;2;Adults;Yes;CD19;41BB
+7.22;0;4;;2;Adults;Yes;CD19;41BB
+7.554;0;4;;2;Adults;Yes;CD19;41BB
+7.889;0;4;;2;Adults;Yes;CD19;41BB
+8.156;0;4;;2;Adults;Yes;CD19;41BB
+8.49;0;4;;2;Adults;Yes;CD19;41BB
+8.939;0;4;;2;Adults;Yes;CD19;41BB
+9.14;0;4;;2;Adults;Yes;CD19;41BB
+9.354;0;4;;2;Adults;Yes;CD19;41BB
+11.105;1;4;;2;Adults;Yes;CD19;41BB
+13.367;0;4;;2;Adults;Yes;CD19;41BB
+16.643;0;4;;2;Adults;Yes;CD19;41BB
+18.077;1;4;;2;Adults;Yes;CD19;41BB
+23.053;1;4;;2;Adults;Yes;CD19;41BB
+23.319;0;4;;2;Adults;Yes;CD19;41BB
+26.663;0;4;;2;Adults;Yes;CD19;41BB
+35.021;0;4;;2;Adults;Yes;CD19;41BB
+36.017;1;4;;2;Adults;Yes;CD19;41BB
+36.051;1;4;;2;Adults;Yes;CD19;41BB
+42.57;0;4;;2;Adults;Yes;CD19;41BB
+45.044;0;4;;2;Adults;Yes;CD19;41BB
+47.451;0;4;;2;Adults;Yes;CD19;41BB
+51.129;0;4;;2;Adults;Yes;CD19;41BB
+52.198;0;4;;2;Adults;Yes;CD19;41BB
+53.335;0;4;;2;Adults;Yes;CD19;41BB
+54.405;0;4;;2;Adults;Yes;CD19;41BB
+55.542;0;4;;2;Adults;Yes;CD19;41BB
+56.947;0;4;;2;Adults;Yes;CD19;41BB
+4.304;0;5;;1;Both;Both;CD19/CD22;CD28 and 41BB (excloure)
+4.304;0;5;;1;Both;Both;CD19/CD22;CD28 and 41BB (excloure)
+8.637;1;5;;1;Both;Both;CD19/CD22;CD28 and 41BB (excloure)
+8.917;1;5;;1;Both;Both;CD19/CD22;CD28 and 41BB (excloure)
+9.09;0;5;;1;Both;Both;CD19/CD22;CD28 and 41BB (excloure)
+9.466;0;5;;1;Both;Both;CD19/CD22;CD28 and 41BB (excloure)
+9.815;1;5;;1;Both;Both;CD19/CD22;CD28 and 41BB (excloure)
+10.306;1;5;;1;Both;Both;CD19/CD22;CD28 and 41BB (excloure)
+10.697;1;5;;1;Both;Both;CD19/CD22;CD28 and 41BB (excloure)
+11.309;1;5;;1;Both;Both;CD19/CD22;CD28 and 41BB (excloure)
+11.671;0;5;;1;Both;Both;CD19/CD22;CD28 and 41BB (excloure)
+12.75;1;5;;1;Both;Both;CD19/CD22;CD28 and 41BB (excloure)
+13.333;0;5;;1;Both;Both;CD19/CD22;CD28 and 41BB (excloure)
+17.477;0;5;;1;Both;Both;CD19/CD22;CD28 and 41BB (excloure)
+21.676;0;5;;1;Both;Both;CD19/CD22;CD28 and 41BB (excloure)
+23.284;0;5;;1;Both;Both;CD19/CD22;CD28 and 41BB (excloure)
+23.532;1;5;;1;Both;Both;CD19/CD22;CD28 and 41BB (excloure)
+26.38;0;5;;1;Both;Both;CD19/CD22;CD28 and 41BB (excloure)
+27.3;1;5;;1;Both;Both;CD19/CD22;CD28 and 41BB (excloure)
+27.315;1;5;;1;Both;Both;CD19/CD22;CD28 and 41BB (excloure)
+0.518;1;6;green;2;Both;Yes;CD19;41BB
+1.048;1;6;green;2;Both;Yes;CD19;41BB
+2.309;1;6;green;2;Both;Yes;CD19;41BB
+3.9;1;6;green;2;Both;Yes;CD19;41BB
+4.049;1;6;green;2;Both;Yes;CD19;41BB
+5.956;1;6;green;2;Both;Yes;CD19;41BB
+6.73;1;6;green;2;Both;Yes;CD19;41BB
+7.481;1;6;green;2;Both;Yes;CD19;41BB
+8.192;1;6;green;2;Both;Yes;CD19;41BB
+8.421;1;6;green;2;Both;Yes;CD19;41BB
+8.761;1;6;green;2;Both;Yes;CD19;41BB
+9.357;1;6;green;2;Both;Yes;CD19;41BB
+9.666;1;6;green;2;Both;Yes;CD19;41BB
+10.911;1;6;green;2;Both;Yes;CD19;41BB
+13.642;1;6;green;2;Both;Yes;CD19;41BB
+14.572;1;6;green;2;Both;Yes;CD19;41BB
+15.04;0;6;green;2;Both;Yes;CD19;41BB
+16.946;1;6;green;2;Both;Yes;CD19;41BB
+20.776;1;6;green;2;Both;Yes;CD19;41BB
+22.255;1;6;green;2;Both;Yes;CD19;41BB
+24.305;1;6;green;2;Both;Yes;CD19;41BB
+32.044;0;6;green;2;Both;Yes;CD19;41BB
+34.02;1;6;green;2;Both;Yes;CD19;41BB
+35.913;0;6;green;2;Both;Yes;CD19;41BB
+36.675;1;6;green;2;Both;Yes;CD19;41BB
+37.404;1;6;green;2;Both;Yes;CD19;41BB
+38.001;0;6;green;2;Both;Yes;CD19;41BB
+39.384;1;6;green;2;Both;Yes;CD19;41BB
+40.921;0;6;green;2;Both;Yes;CD19;41BB
+41.85;0;6;green;2;Both;Yes;CD19;41BB
+42.779;0;6;green;2;Both;Yes;CD19;41BB
+43.709;0;6;green;2;Both;Yes;CD19;41BB
+44.505;0;6;green;2;Both;Yes;CD19;41BB
+45.435;0;6;green;2;Both;Yes;CD19;41BB
+46.311;0;6;green;2;Both;Yes;CD19;41BB
+47.292;0;6;green;2;Both;Yes;CD19;41BB
+48.088;0;6;green;2;Both;Yes;CD19;41BB
+49.016;1;6;green;2;Both;Yes;CD19;41BB
+49.27;0;6;green;2;Both;Yes;CD19;41BB
+51.398;0;6;green;2;Both;Yes;CD19;41BB
+51.592;1;6;green;2;Both;Yes;CD19;41BB
+51.913;0;6;green;2;Both;Yes;CD19;41BB
+51.913;0;6;green;2;Both;Yes;CD19;41BB
+0.383;1;6;violet;2;Both;Yes;CD19;41BB
+0.514;1;6;violet;2;Both;Yes;CD19;41BB
+2.173;1;6;violet;2;Both;Yes;CD19;41BB
+2.503;0;6;violet;2;Both;Yes;CD19;41BB
+25.004;0;6;violet;2;Both;Yes;CD19;41BB
+25.401;1;6;violet;2;Both;Yes;CD19;41BB
+27.458;1;6;violet;2;Both;Yes;CD19;41BB
+29.91;1;6;violet;2;Both;Yes;CD19;41BB
+29.998;1;6;violet;2;Both;Yes;CD19;41BB
+36.348;0;6;violet;2;Both;Yes;CD19;41BB
+36.348;0;6;violet;2;Both;Yes;CD19;41BB
+36.348;0;6;violet;2;Both;Yes;CD19;41BB
+36.348;0;6;violet;2;Both;Yes;CD19;41BB
+36.348;0;6;violet;2;Both;Yes;CD19;41BB
+36.348;0;6;violet;2;Both;Yes;CD19;41BB
+36.348;0;6;violet;2;Both;Yes;CD19;41BB
+36.348;0;6;violet;2;Both;Yes;CD19;41BB
+36.348;0;6;violet;2;Both;Yes;CD19;41BB
+36.348;0;6;violet;2;Both;Yes;CD19;41BB
+36.348;0;6;violet;2;Both;Yes;CD19;41BB
+36.348;0;6;violet;2;Both;Yes;CD19;41BB
+1.707;1;8;;1_2;Both;Yes;CD19;41BB
+3.501;1;8;;1_2;Both;Yes;CD19;41BB
+4.777;1;8;;1_2;Both;Yes;CD19;41BB
+9.674;1;8;;1_2;Both;Yes;CD19;41BB
+12.508;0;8;;1_2;Both;Yes;CD19;41BB
+15.1;1;8;;1_2;Both;Yes;CD19;41BB
+15.11;1;8;;1_2;Both;Yes;CD19;41BB
+17.453;0;8;;1_2;Both;Yes;CD19;41BB
+22.501;0;8;;1_2;Both;Yes;CD19;41BB
+27.55;0;8;;1_2;Both;Yes;CD19;41BB
+32.352;0;8;;1_2;Both;Yes;CD19;41BB
+32.961;0;8;;1_2;Both;Yes;CD19;41BB
+2.377;1;10;;1;Peds;Both;CD19/CD22;41BB/CD28 (CART bicistronic. Excloure)
+4.175;1;10;;1;Peds;Both;CD19/CD22;41BB/CD28 (CART bicistronic. Excloure)
+4.461;1;10;;1;Peds;Both;CD19/CD22;41BB/CD28 (CART bicistronic. Excloure)
+6.523;1;10;;1;Peds;Both;CD19/CD22;41BB/CD28 (CART bicistronic. Excloure)
+7.33;1;10;;1;Peds;Both;CD19/CD22;41BB/CD28 (CART bicistronic. Excloure)
+7.44;1;10;;1;Peds;Both;CD19/CD22;41BB/CD28 (CART bicistronic. Excloure)
+10.265;0;10;;1;Peds;Both;CD19/CD22;41BB/CD28 (CART bicistronic. Excloure)
+13.054;1;10;;1;Peds;Both;CD19/CD22;41BB/CD28 (CART bicistronic. Excloure)
+14.594;1;10;;1;Peds;Both;CD19/CD22;41BB/CD28 (CART bicistronic. Excloure)
+16.502;0;10;;1;Peds;Both;CD19/CD22;41BB/CD28 (CART bicistronic. Excloure)
+19.359;0;10;;1;Peds;Both;CD19/CD22;41BB/CD28 (CART bicistronic. Excloure)
+22.884;0;10;;1;Peds;Both;CD19/CD22;41BB/CD28 (CART bicistronic. Excloure)
+22.884;0;10;;1;Peds;Both;CD19/CD22;41BB/CD28 (CART bicistronic. Excloure)
+25.161;1;10;;1;Peds;Both;CD19/CD22;41BB/CD28 (CART bicistronic. Excloure)
+28.436;0;10;;1;Peds;Both;CD19/CD22;41BB/CD28 (CART bicistronic. Excloure)
+0.626;1;11;;1;Adults;Yes;CD19;41BB
+0.665;1;11;;1;Adults;Yes;CD19;41BB
+1.858;1;11;;1;Adults;Yes;CD19;41BB
+3.01;0;11;;1;Adults;Yes;CD19;41BB
+4.375;1;11;;1;Adults;Yes;CD19;41BB
+5.117;1;11;;1;Adults;Yes;CD19;41BB
+5.236;1;11;;1;Adults;Yes;CD19;41BB
+8.932;1;11;;1;Adults;Yes;CD19;41BB
+9.042;0;11;;1;Adults;Yes;CD19;41BB
+14.059;0;11;;1;Adults;Yes;CD19;41BB
+14.416;1;11;;1;Adults;Yes;CD19;41BB
+16.046;0;11;;1;Adults;Yes;CD19;41BB
+19.543;0;11;;1;Adults;Yes;CD19;41BB
+21.054;0;11;;1;Adults;Yes;CD19;41BB
+22.484;0;11;;1;Adults;Yes;CD19;41BB
+25.187;0;11;;1;Adults;Yes;CD19;41BB
+26.379;0;11;;1;Adults;Yes;CD19;41BB
+27.571;0;11;;1;Adults;Yes;CD19;41BB
+28.764;0;11;;1;Adults;Yes;CD19;41BB
+31.864;0;11;;1;Adults;Yes;CD19;41BB
+0.305;1;12;;2;Adults;Yes;CD19;CD28
+0.327;0;12;;2;Adults;Yes;CD19;CD28
+0.427;1;12;;2;Adults;Yes;CD19;CD28
+0.598;0;12;;2;Adults;Yes;CD19;CD28
+0.64;1;12;;2;Adults;Yes;CD19;CD28
+0.837;1;12;;2;Adults;Yes;CD19;CD28
+1.605;1;12;;2;Adults;Yes;CD19;CD28
+2.128;1;12;;2;Adults;Yes;CD19;CD28
+2.241;1;12;;2;Adults;Yes;CD19;CD28
+2.492;1;12;;2;Adults;Yes;CD19;CD28
+2.743;1;12;;2;Adults;Yes;CD19;CD28
+3.131;1;12;;2;Adults;Yes;CD19;CD28
+7.465;0;12;;2;Adults;Yes;CD19;CD28
+7.62;1;12;;2;Adults;Yes;CD19;CD28
+8.196;0;12;;2;Adults;Yes;CD19;CD28
+8.344;1;12;;2;Adults;Yes;CD19;CD28
+8.47;0;12;;2;Adults;Yes;CD19;CD28
+8.58;0;12;;2;Adults;Yes;CD19;CD28
+8.669;0;12;;2;Adults;Yes;CD19;CD28
+9.157;1;12;;2;Adults;Yes;CD19;CD28
+9.157;1;12;;2;Adults;Yes;CD19;CD28
+9.615;1;12;;2;Adults;Yes;CD19;CD28
+11.462;0;12;;2;Adults;Yes;CD19;CD28
+11.699;0;12;;2;Adults;Yes;CD19;CD28
+12.245;1;12;;2;Adults;Yes;CD19;CD28
+12.371;0;12;;2;Adults;Yes;CD19;CD28
+12.371;0;12;;2;Adults;Yes;CD19;CD28
+12.571;0;12;;2;Adults;Yes;CD19;CD28
+12.74;0;12;;2;Adults;Yes;CD19;CD28
+13.487;0;12;;2;Adults;Yes;CD19;CD28
+14.181;1;12;;2;Adults;Yes;CD19;CD28
+14.189;0;12;;2;Adults;Yes;CD19;CD28
+14.3;0;12;;2;Adults;Yes;CD19;CD28
+14.477;0;12;;2;Adults;Yes;CD19;CD28
+14.632;0;12;;2;Adults;Yes;CD19;CD28
+15.201;0;12;;2;Adults;Yes;CD19;CD28
+15.504;0;12;;2;Adults;Yes;CD19;CD28
+15.851;1;12;;2;Adults;Yes;CD19;CD28
+16.206;1;12;;2;Adults;Yes;CD19;CD28
+16.361;0;12;;2;Adults;Yes;CD19;CD28
+16.62;0;12;;2;Adults;Yes;CD19;CD28
+17.122;0;12;;2;Adults;Yes;CD19;CD28
+17.337;0;12;;2;Adults;Yes;CD19;CD28
+17.337;0;12;;2;Adults;Yes;CD19;CD28
+17.536;1;12;;2;Adults;Yes;CD19;CD28
+17.536;0;12;;2;Adults;Yes;CD19;CD28
+17.728;0;12;;2;Adults;Yes;CD19;CD28
+17.839;0;12;;2;Adults;Yes;CD19;CD28
+18.127;1;12;;2;Adults;Yes;CD19;CD28
+18.307;0;12;;2;Adults;Yes;CD19;CD28
+18.474;0;12;;2;Adults;Yes;CD19;CD28
+18.656;0;12;;2;Adults;Yes;CD19;CD28
+18.839;0;12;;2;Adults;Yes;CD19;CD28
+21.33;0;12;;2;Adults;Yes;CD19;CD28
+21.603;0;12;;2;Adults;Yes;CD19;CD28
+0.231;1;15;blue;1;Adults;Yes;CD19;CD28
+1.476;1;15;blue;1;Adults;Yes;CD19;CD28
+1.557;1;15;blue;1;Adults;Yes;CD19;CD28
+2.039;1;15;blue;1;Adults;Yes;CD19;CD28
+2.119;1;15;blue;1;Adults;Yes;CD19;CD28
+2.139;1;15;blue;1;Adults;Yes;CD19;CD28
+2.762;1;15;blue;1;Adults;Yes;CD19;CD28
+3.384;1;15;blue;1;Adults;Yes;CD19;CD28
+6.115;1;15;blue;1;Adults;Yes;CD19;CD28
+11.436;0;15;blue;1;Adults;Yes;CD19;CD28
+12.059;1;15;blue;1;Adults;Yes;CD19;CD28
+12.521;0;15;blue;1;Adults;Yes;CD19;CD28
+18.987;1;15;blue;1;Adults;Yes;CD19;CD28
+18.987;1;15;blue;1;Adults;Yes;CD19;CD28
+19.469;0;15;blue;1;Adults;Yes;CD19;CD28
+20.577;0;15;blue;1;Adults;Yes;CD19;CD28
+0.211;1;15;green;1;Adults;Yes;CD19;CD28
+5.618;1;15;green;1;Adults;Yes;CD19;CD28
+9.007;1;15;green;1;Adults;Yes;CD19;CD28
+9.509;0;15;green;1;Adults;Yes;CD19;CD28
+10.292;1;15;green;1;Adults;Yes;CD19;CD28
+31.858;0;15;green;1;Adults;Yes;CD19;CD28
+1.694;1;15;red;1;Adults;Yes;CD19;CD28
+1.838;0;15;red;1;Adults;Yes;CD19;CD28
+2.178;1;15;red;1;Adults;Yes;CD19;CD28
+3.484;0;15;red;1;Adults;Yes;CD19;CD28
+4.067;1;15;red;1;Adults;Yes;CD19;CD28
+4.529;0;15;red;1;Adults;Yes;CD19;CD28
+5.352;1;15;red;1;Adults;Yes;CD19;CD28
+6.256;0;15;red;1;Adults;Yes;CD19;CD28
+6.471;0;15;red;1;Adults;Yes;CD19;CD28
+6.617;0;15;red;1;Adults;Yes;CD19;CD28
+6.818;0;15;red;1;Adults;Yes;CD19;CD28
+10.131;1;15;red;1;Adults;Yes;CD19;CD28
+10.874;1;15;red;1;Adults;Yes;CD19;CD28
+12.983;1;15;red;1;Adults;Yes;CD19;CD28
+14.368;1;15;red;1;Adults;Yes;CD19;CD28
+15.493;0;15;red;1;Adults;Yes;CD19;CD28
+16.035;1;15;red;1;Adults;Yes;CD19;CD28
+16.497;0;15;red;1;Adults;Yes;CD19;CD28
+18.264;0;15;red;1;Adults;Yes;CD19;CD28
+18.505;0;15;red;1;Adults;Yes;CD19;CD28
+18.746;0;15;red;1;Adults;Yes;CD19;CD28
+23.103;1;15;red;1;Adults;Yes;CD19;CD28
+29.71;0;15;red;1;Adults;Yes;CD19;CD28
+0.88;1;16;;1;Both;Both;CD19;41BB
+1.835;1;16;;1;Both;Both;CD19;41BB
+1.835;1;16;;1;Both;Both;CD19;41BB
+2.855;1;16;;1;Both;Both;CD19;41BB
+2.97;1;16;;1;Both;Both;CD19;41BB
+3.224;1;16;;1;Both;Both;CD19;41BB
+3.485;1;16;;1;Both;Both;CD19;41BB
+3.485;1;16;;1;Both;Both;CD19;41BB
+3.485;1;16;;1;Both;Both;CD19;41BB
+3.664;1;16;;1;Both;Both;CD19;41BB
+3.919;1;16;;1;Both;Both;CD19;41BB
+3.919;1;16;;1;Both;Both;CD19;41BB
+4.478;1;16;;1;Both;Both;CD19;41BB
+4.787;1;16;;1;Both;Both;CD19;41BB
+5.134;1;16;;1;Both;Both;CD19;41BB
+5.143;1;16;;1;Both;Both;CD19;41BB
+5.308;1;16;;1;Both;Both;CD19;41BB
+6.263;1;16;;1;Both;Both;CD19;41BB
+6.263;1;16;;1;Both;Both;CD19;41BB
+7.218;1;16;;1;Both;Both;CD19;41BB
+7.24;1;16;;1;Both;Both;CD19;41BB
+7.756;1;16;;1;Both;Both;CD19;41BB
+7.826;1;16;;1;Both;Both;CD19;41BB
+9.822;1;16;;1;Both;Both;CD19;41BB
+9.822;1;16;;1;Both;Both;CD19;41BB
+11.594;1;16;;1;Both;Both;CD19;41BB
+11.84;1;16;;1;Both;Both;CD19;41BB
+12.015;1;16;;1;Both;Both;CD19;41BB
+12.924;1;16;;1;Both;Both;CD19;41BB
+13.373;1;16;;1;Both;Both;CD19;41BB
+23.96;1;16;;1;Both;Both;CD19;41BB
+29.347;1;16;;1;Both;Both;CD19;41BB
+32.819;1;16;;1;Both;Both;CD19;41BB
+38.719;1;16;;1;Both;Both;CD19;41BB
+42.105;0;16;;1;Both;Both;CD19;41BB
+43.407;1;16;;1;Both;Both;CD19;41BB
+44.549;0;16;;1;Both;Both;CD19;41BB
+46.95;0;16;;1;Both;Both;CD19;41BB
+48.89;0;16;;1;Both;Both;CD19;41BB
+50.973;0;16;;1;Both;Both;CD19;41BB
+53.23;0;16;;1;Both;Both;CD19;41BB
+55.314;0;16;;1;Both;Both;CD19;41BB
+57.571;0;16;;1;Both;Both;CD19;41BB
+65.732;0;16;;1;Both;Both;CD19;41BB
+70.626;0;16;;1;Both;Both;CD19;41BB
+71.635;1;16;;1;Both;Both;CD19;41BB
+71.89;1;16;;1;Both;Both;CD19;41BB
+78.32;0;16;;1;Both;Both;CD19;41BB
+78.32;0;16;;1;Both;Both;CD19;41BB
+78.32;0;16;;1;Both;Both;CD19;41BB
+0.915;0;17;;2;Both;Yes;CD19;CD28
+1.828;0;17;;2;Both;Yes;CD19;CD28
+2.537;1;17;;2;Both;Yes;CD19;CD28
+2.638;0;17;;2;Both;Yes;CD19;CD28
+2.89;1;17;;2;Both;Yes;CD19;CD28
+3.292;1;17;;2;Both;Yes;CD19;CD28
+3.292;1;17;;2;Both;Yes;CD19;CD28
+3.544;1;17;;2;Both;Yes;CD19;CD28
+3.59;0;17;;2;Both;Yes;CD19;CD28
+4.049;1;17;;2;Both;Yes;CD19;CD28
+4.447;0;17;;2;Both;Yes;CD19;CD28
+4.503;1;17;;2;Both;Yes;CD19;CD28
+4.705;1;17;;2;Both;Yes;CD19;CD28
+5.311;1;17;;2;Both;Yes;CD19;CD28
+5.358;0;17;;2;Both;Yes;CD19;CD28
+5.804;1;17;;2;Both;Yes;CD19;CD28
+5.967;1;17;;2;Both;Yes;CD19;CD28
+6.624;1;17;;2;Both;Yes;CD19;CD28
+6.774;1;17;;2;Both;Yes;CD19;CD28
+7.33;1;17;;2;Both;Yes;CD19;CD28
+7.429;1;17;;2;Both;Yes;CD19;CD28
+7.688;1;17;;2;Both;Yes;CD19;CD28
+8.389;1;17;;2;Both;Yes;CD19;CD28
+8.794;0;17;;2;Both;Yes;CD19;CD28
+9.452;1;17;;2;Both;Yes;CD19;CD28
+10.922;0;17;;2;Both;Yes;CD19;CD28
+12.603;1;17;;2;Both;Yes;CD19;CD28
+13.615;1;17;;2;Both;Yes;CD19;CD28
+15.382;0;17;;2;Both;Yes;CD19;CD28
+17.513;0;17;;2;Both;Yes;CD19;CD28
+19.339;1;17;;2;Both;Yes;CD19;CD28
+19.488;1;17;;2;Both;Yes;CD19;CD28
+19.755;1;17;;2;Both;Yes;CD19;CD28
+21.363;0;17;;2;Both;Yes;CD19;CD28
+22.947;0;17;;2;Both;Yes;CD19;CD28
+23.998;1;17;;2;Both;Yes;CD19;CD28
+24.617;0;17;;2;Both;Yes;CD19;CD28
+26.764;1;17;;2;Both;Yes;CD19;CD28
+27.998;1;17;;2;Both;Yes;CD19;CD28
+28.455;0;17;;2;Both;Yes;CD19;CD28
+29.416;1;17;;2;Both;Yes;CD19;CD28
+30.582;0;17;;2;Both;Yes;CD19;CD28
+34.234;0;17;;2;Both;Yes;CD19;CD28
+36.77;0;17;;2;Both;Yes;CD19;CD28
+36.77;0;17;;2;Both;Yes;CD19;CD28
+36.77;0;17;;2;Both;Yes;CD19;CD28
+36.77;0;17;;2;Both;Yes;CD19;CD28
+0.469;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+0.469;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+0.961;1;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+1.212;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+1.623;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+1.929;1;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+1.932;1;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+1.932;1;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+1.946;1;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+2.173;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+2.31;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+2.402;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+2.461;1;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+2.505;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+2.584;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+2.721;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+2.79;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+2.895;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+2.927;1;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+2.962;1;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+3.029;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+3.065;1;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+3.138;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+3.232;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+3.299;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+3.414;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+3.51;1;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+3.698;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+3.698;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+3.698;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+3.698;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+4.059;1;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+4.324;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+4.436;1;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+4.54;1;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+4.694;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+4.917;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+4.952;1;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+5.016;1;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+5.047;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+5.412;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+5.501;1;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+5.655;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+5.913;1;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+5.913;1;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+5.913;1;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+6.222;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+6.427;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+6.633;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+6.838;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+7.044;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+7.181;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+7.404;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+7.421;1;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+7.585;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+7.808;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+7.935;1;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+7.936;1;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+7.937;1;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+8.006;1;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+8.057;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+8.143;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+8.211;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+8.293;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+8.402;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+8.402;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+8.554;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+8.622;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+8.691;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+8.759;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+8.841;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+8.909;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+8.964;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+9.04;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+9.102;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+9.239;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+9.307;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+9.369;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+9.437;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+9.519;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+9.581;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+9.65;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+9.718;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+9.786;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+9.916;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+10.198;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+10.348;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+10.54;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+10.677;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+10.814;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+11.019;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+11.156;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+11.339;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+11.397;1;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+11.413;1;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+11.494;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+11.64;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+11.777;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+12.393;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+12.804;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+13.215;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+13.557;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+13.87;1;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+15.925;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+15.925;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+15.925;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+15.925;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+15.925;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+15.925;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+15.925;0;18;;1_2;Both;Yes;CD19;41BB and CD28 (2 CARTS diferents. excloure d'aquest analisi)
+0.431;1;19;blue;1;Both;Both;CD22;41BB
+0.722;1;19;blue;1;Both;Both;CD22;41BB
+1.01;1;19;blue;1;Both;Both;CD22;41BB
+1.515;1;19;blue;1;Both;Both;CD22;41BB
+2.165;1;19;blue;1;Both;Both;CD22;41BB
+2.453;1;19;blue;1;Both;Both;CD22;41BB
+2.597;1;19;blue;1;Both;Both;CD22;41BB
+2.884;1;19;blue;1;Both;Both;CD22;41BB
+3.029;1;19;blue;1;Both;Both;CD22;41BB
+3.278;0;19;blue;1;Both;Both;CD22;41BB
+3.461;1;19;blue;1;Both;Both;CD22;41BB
+3.533;1;19;blue;1;Both;Both;CD22;41BB
+3.748;1;19;blue;1;Both;Both;CD22;41BB
+4.904;1;19;blue;1;Both;Both;CD22;41BB
+4.904;1;19;blue;1;Both;Both;CD22;41BB
+5.794;1;19;blue;1;Both;Both;CD22;41BB
+6.204;1;19;blue;1;Both;Both;CD22;41BB
+6.711;0;19;blue;1;Both;Both;CD22;41BB
+7.636;1;19;blue;1;Both;Both;CD22;41BB
+7.939;1;19;blue;1;Both;Both;CD22;41BB
+9.53;1;19;blue;1;Both;Both;CD22;41BB
+10.758;1;19;blue;1;Both;Both;CD22;41BB
+10.975;1;19;blue;1;Both;Both;CD22;41BB
+11.916;0;19;blue;1;Both;Both;CD22;41BB
+13.798;0;19;blue;1;Both;Both;CD22;41BB
+14.521;1;19;blue;1;Both;Both;CD22;41BB
+15.642;0;19;blue;1;Both;Both;CD22;41BB
+16.111;1;19;blue;1;Both;Both;CD22;41BB
+16.276;1;19;blue;1;Both;Both;CD22;41BB
+17.338;1;19;blue;1;Both;Both;CD22;41BB
+17.411;0;19;blue;1;Both;Both;CD22;41BB
+30.657;1;19;blue;1;Both;Both;CD22;41BB
+33.19;0;19;blue;1;Both;Both;CD22;41BB
+35.287;1;19;blue;1;Both;Both;CD22;41BB
+38.906;0;19;blue;1;Both;Both;CD22;41BB
+1.155;0;19;red;1;Both;Both;CD22;41BB
+2.528;0;19;red;1;Both;Both;CD22;41BB
+3.692;0;19;red;1;Both;Both;CD22;41BB
+5.036;0;19;red;1;Both;Both;CD22;41BB
+6.299;0;19;red;1;Both;Both;CD22;41BB
+7.457;0;19;red;1;Both;Both;CD22;41BB
+8.76;0;19;red;1;Both;Both;CD22;41BB
+10.414;1;19;red;1;Both;Both;CD22;41BB
+21.78;0;19;red;1;Both;Both;CD22;41BB
+24.296;1;19;red;1;Both;Both;CD22;41BB
+24.314;0;19;red;1;Both;Both;CD22;41BB
+2.497;0;21;green;1;Both;Yes;CD19;41BB
+7.426;0;21;green;1;Both;Yes;CD19;41BB
+7.993;1;21;green;1;Both;Yes;CD19;41BB
+12.539;0;21;green;1;Both;Yes;CD19;41BB
+16.415;0;21;green;1;Both;Yes;CD19;41BB
+1.515;1;21;violet;1;Both;Yes;CD19;41BB
+1.568;1;21;violet;1;Both;Yes;CD19;41BB
+3.021;1;21;violet;1;Both;Yes;CD19;41BB
+4.024;1;21;violet;1;Both;Yes;CD19;41BB
+4.045;1;21;violet;1;Both;Yes;CD19;41BB
+5.96;1;21;violet;1;Both;Yes;CD19;41BB
+6.933;1;21;violet;1;Both;Yes;CD19;41BB
+6.987;1;21;violet;1;Both;Yes;CD19;41BB
+9.974;1;21;violet;1;Both;Yes;CD19;41BB
+9.974;1;21;violet;1;Both;Yes;CD19;41BB
+9.974;1;21;violet;1;Both;Yes;CD19;41BB
+9.974;1;21;violet;1;Both;Yes;CD19;41BB
+21.002;0;21;violet;1;Both;Yes;CD19;41BB
+21.002;0;21;violet;1;Both;Yes;CD19;41BB
+21.002;0;21;violet;1;Both;Yes;CD19;41BB
+21.002;0;21;violet;1;Both;Yes;CD19;41BB
+21.002;0;21;violet;1;Both;Yes;CD19;41BB
+21.002;0;21;violet;1;Both;Yes;CD19;41BB
+21.002;0;21;violet;1;Both;Yes;CD19;41BB
+21.002;0;21;violet;1;Both;Yes;CD19;41BB
+21.002;0;21;violet;1;Both;Yes;CD19;41BB
+21.002;0;21;violet;1;Both;Yes;CD19;41BB
+21.002;0;21;violet;1;Both;Yes;CD19;41BB
+2.988;0;22;HDF;1;Adults;Yes;CD19;41BB
+3.233;1;22;HDF;1;Adults;Yes;CD19;41BB
+5.106;1;22;HDF;1;Adults;Yes;CD19;41BB
+7.55;0;22;HDF;1;Adults;Yes;CD19;41BB
+8.999;0;22;HDF;1;Adults;Yes;CD19;41BB
+9.814;1;22;HDF;1;Adults;Yes;CD19;41BB
+10.224;1;22;HDF;1;Adults;Yes;CD19;41BB
+10.368;0;22;HDF;1;Adults;Yes;CD19;41BB
+13.218;0;22;HDF;1;Adults;Yes;CD19;41BB
+13.395;1;22;HDF;1;Adults;Yes;CD19;41BB
+14.346;0;22;HDF;1;Adults;Yes;CD19;41BB
+15.566;0;22;HDF;1;Adults;Yes;CD19;41BB
+16.699;0;22;HDF;1;Adults;Yes;CD19;41BB
+19.908;0;22;HDF;1;Adults;Yes;CD19;41BB
+21.949;0;22;HDF;1;Adults;Yes;CD19;41BB
+26.021;0;22;HDF;1;Adults;Yes;CD19;41BB
+28.012;0;22;HDF;1;Adults;Yes;CD19;41BB
+32.99;0;22;HDF;1;Adults;Yes;CD19;41BB
+50.186;0;22;HDF;1;Adults;Yes;CD19;41BB
+53.218;0;22;HDF;1;Adults;Yes;CD19;41BB
+0.106;1;22;HDS;1;Adults;Yes;CD19;41BB
+0.353;1;22;HDS;1;Adults;Yes;CD19;41BB
+0.449;1;22;HDS;1;Adults;Yes;CD19;41BB
+6.174;1;22;HDS;1;Adults;Yes;CD19;41BB
+14.943;1;22;HDS;1;Adults;Yes;CD19;41BB
+39.029;0;22;HDS;1;Adults;Yes;CD19;41BB
+0.299;1;22;LD;1;Adults;Yes;CD19;41BB
+0.299;1;22;LD;1;Adults;Yes;CD19;41BB
+1.052;1;22;LD;1;Adults;Yes;CD19;41BB
+3.728;1;22;LD;1;Adults;Yes;CD19;41BB
+5.56;1;22;LD;1;Adults;Yes;CD19;41BB
+13.484;1;22;LD;1;Adults;Yes;CD19;41BB
+19.018;1;22;LD;1;Adults;Yes;CD19;41BB
+25.302;1;22;LD;1;Adults;Yes;CD19;41BB
+30.317;0;22;LD;1;Adults;Yes;CD19;41BB
+0.76;0;24;;1;Peds;Yes;CD19;41BB
+1.616;1;24;;1;Peds;Yes;CD19;41BB
+4.454;1;24;;1;Peds;Yes;CD19;41BB
+4.496;0;24;;1;Peds;Yes;CD19;41BB
+6.407;1;24;;1;Peds;Yes;CD19;41BB
+7.479;0;24;;1;Peds;Yes;CD19;41BB
+10.111;0;24;;1;Peds;Yes;CD19;41BB
+11.024;0;24;;1;Peds;Yes;CD19;41BB
+11.874;1;24;;1;Peds;Yes;CD19;41BB
+13.017;0;24;;1;Peds;Yes;CD19;41BB
+13.966;0;24;;1;Peds;Yes;CD19;41BB
+16.499;1;24;;1;Peds;Yes;CD19;41BB
+22.486;0;24;;1;Peds;Yes;CD19;41BB
+23.85;0;24;;1;Peds;Yes;CD19;41BB
+0.594;0;26;;1_2;Both;Yes;CD19;41BB
+0.634;1;26;;1_2;Both;Yes;CD19;41BB
+1.033;0;26;;1_2;Both;Yes;CD19;41BB
+1.232;0;26;;1_2;Both;Yes;CD19;41BB
+1.431;1;26;;1_2;Both;Yes;CD19;41BB
+1.671;1;26;;1_2;Both;Yes;CD19;41BB
+1.674;1;26;;1_2;Both;Yes;CD19;41BB
+1.784;0;26;;1_2;Both;Yes;CD19;41BB
+1.815;1;26;;1_2;Both;Yes;CD19;41BB
+1.916;1;26;;1_2;Both;Yes;CD19;41BB
+2.076;1;26;;1_2;Both;Yes;CD19;41BB
+2.407;0;26;;1_2;Both;Yes;CD19;41BB
+2.554;1;26;;1_2;Both;Yes;CD19;41BB
+2.814;1;26;;1_2;Both;Yes;CD19;41BB
+2.955;1;26;;1_2;Both;Yes;CD19;41BB
+3.064;0;26;;1_2;Both;Yes;CD19;41BB
+3.195;1;26;;1_2;Both;Yes;CD19;41BB
+3.356;1;26;;1_2;Both;Yes;CD19;41BB
+3.437;1;26;;1_2;Both;Yes;CD19;41BB
+3.556;0;26;;1_2;Both;Yes;CD19;41BB
+4.173;0;26;;1_2;Both;Yes;CD19;41BB
+4.233;1;26;;1_2;Both;Yes;CD19;41BB
+4.749;0;26;;1_2;Both;Yes;CD19;41BB
+5.33;0;26;;1_2;Both;Yes;CD19;41BB
+5.426;1;26;;1_2;Both;Yes;CD19;41BB
+5.984;1;26;;1_2;Both;Yes;CD19;41BB
+6.58;0;26;;1_2;Both;Yes;CD19;41BB
+7.13;0;26;;1_2;Both;Yes;CD19;41BB
+7.691;0;26;;1_2;Both;Yes;CD19;41BB
+8.091;1;26;;1_2;Both;Yes;CD19;41BB
+8.199;0;26;;1_2;Both;Yes;CD19;41BB
+8.288;1;26;;1_2;Both;Yes;CD19;41BB
+8.728;0;26;;1_2;Both;Yes;CD19;41BB
+9.284;0;26;;1_2;Both;Yes;CD19;41BB
+9.84;0;26;;1_2;Both;Yes;CD19;41BB
+10.316;0;26;;1_2;Both;Yes;CD19;41BB
+10.755;1;26;;1_2;Both;Yes;CD19;41BB
+10.835;0;26;;1_2;Both;Yes;CD19;41BB
+11.431;0;26;;1_2;Both;Yes;CD19;41BB
+12.227;1;26;;1_2;Both;Yes;CD19;41BB
+12.878;1;26;;1_2;Both;Yes;CD19;41BB
+12.932;0;26;;1_2;Both;Yes;CD19;41BB
+13.74;0;26;;1_2;Both;Yes;CD19;41BB
+14.613;0;26;;1_2;Both;Yes;CD19;41BB
+15.172;1;26;;1_2;Both;Yes;CD19;41BB
+15.411;0;26;;1_2;Both;Yes;CD19;41BB
+16.01;1;26;;1_2;Both;Yes;CD19;41BB
+16.289;0;26;;1_2;Both;Yes;CD19;41BB
+17.162;0;26;;1_2;Both;Yes;CD19;41BB
+19.227;0;26;;1_2;Both;Yes;CD19;41BB
+20.418;0;26;;1_2;Both;Yes;CD19;41BB
+21.609;0;26;;1_2;Both;Yes;CD19;41BB
+22.8;0;26;;1_2;Both;Yes;CD19;41BB
+25.499;0;26;;1_2;Both;Yes;CD19;41BB
+27.008;0;26;;1_2;Both;Yes;CD19;41BB
+28.516;0;26;;1_2;Both;Yes;CD19;41BB
+31.216;0;26;;1_2;Both;Yes;CD19;41BB
+32.407;0;26;;1_2;Both;Yes;CD19;41BB
+3.398;1;29;blue;1_2;Adults;Yes;CD19;41BB
+3.969;1;29;blue;1_2;Adults;Yes;CD19;41BB
+4.034;1;29;blue;1_2;Adults;Yes;CD19;41BB
+4.519;1;29;blue;1_2;Adults;Yes;CD19;41BB
+4.691;1;29;blue;1_2;Adults;Yes;CD19;41BB
+4.779;1;29;blue;1_2;Adults;Yes;CD19;41BB
+4.818;1;29;blue;1_2;Adults;Yes;CD19;41BB
+4.819;1;29;blue;1_2;Adults;Yes;CD19;41BB
+5.102;1;29;blue;1_2;Adults;Yes;CD19;41BB
+5.854;1;29;blue;1_2;Adults;Yes;CD19;41BB
+6.203;1;29;blue;1_2;Adults;Yes;CD19;41BB
+6.531;1;29;blue;1_2;Adults;Yes;CD19;41BB
+6.588;1;29;blue;1_2;Adults;Yes;CD19;41BB
+6.687;1;29;blue;1_2;Adults;Yes;CD19;41BB
+6.976;1;29;blue;1_2;Adults;Yes;CD19;41BB
+7.852;1;29;blue;1_2;Adults;Yes;CD19;41BB
+7.897;1;29;blue;1_2;Adults;Yes;CD19;41BB
+8.786;1;29;blue;1_2;Adults;Yes;CD19;41BB
+9.025;0;29;blue;1_2;Adults;Yes;CD19;41BB
+11.849;1;29;blue;1_2;Adults;Yes;CD19;41BB
+12.16;1;29;blue;1_2;Adults;Yes;CD19;41BB
+12.974;1;29;blue;1_2;Adults;Yes;CD19;41BB
+13.987;0;29;blue;1_2;Adults;Yes;CD19;41BB
+14.337;1;29;blue;1_2;Adults;Yes;CD19;41BB
+15.972;0;29;blue;1_2;Adults;Yes;CD19;41BB
+19.51;0;29;blue;1_2;Adults;Yes;CD19;41BB
+19.973;1;29;blue;1_2;Adults;Yes;CD19;41BB
+20.997;0;29;blue;1_2;Adults;Yes;CD19;41BB
+22.487;0;29;blue;1_2;Adults;Yes;CD19;41BB
+25.508;0;29;blue;1_2;Adults;Yes;CD19;41BB
+26.854;1;29;blue;1_2;Adults;Yes;CD19;41BB
+26.994;0;29;blue;1_2;Adults;Yes;CD19;41BB
+28.485;0;29;blue;1_2;Adults;Yes;CD19;41BB
+30.099;0;29;blue;1_2;Adults;Yes;CD19;41BB
+30.101;0;29;blue;1_2;Adults;Yes;CD19;41BB
+30.101;0;29;blue;1_2;Adults;Yes;CD19;41BB
+30.101;0;29;blue;1_2;Adults;Yes;CD19;41BB
+30.101;0;29;blue;1_2;Adults;Yes;CD19;41BB
+30.101;0;29;blue;1_2;Adults;Yes;CD19;41BB
+30.101;0;29;blue;1_2;Adults;Yes;CD19;41BB
+30.101;0;29;blue;1_2;Adults;Yes;CD19;41BB
+30.101;0;29;blue;1_2;Adults;Yes;CD19;41BB
+30.101;0;29;blue;1_2;Adults;Yes;CD19;41BB
+30.101;0;29;blue;1_2;Adults;Yes;CD19;41BB
+30.101;0;29;blue;1_2;Adults;Yes;CD19;41BB
+0.827;1;29;red;1_2;Adults;Yes;CD19;41BB
+1.344;1;29;red;1_2;Adults;Yes;CD19;41BB
+1.949;1;29;red;1_2;Adults;Yes;CD19;41BB
+3.502;1;29;red;1_2;Adults;Yes;CD19;41BB
+6.501;1;29;red;1_2;Adults;Yes;CD19;41BB
+12.369;1;29;red;1_2;Adults;Yes;CD19;41BB
+16.166;1;29;red;1_2;Adults;Yes;CD19;41BB
+30.005;0;29;red;1_2;Adults;Yes;CD19;41BB
+0.51;1;30;;1;Adults;Yes;CD19;CD28
+1.298;1;30;;1;Adults;Yes;CD19;CD28
+1.471;1;30;;1;Adults;Yes;CD19;CD28
+1.528;1;30;;1;Adults;Yes;CD19;CD28
+1.87;1;30;;1;Adults;Yes;CD19;CD28
+2.313;1;30;;1;Adults;Yes;CD19;CD28
+2.472;0;30;;1;Adults;Yes;CD19;CD28
+2.779;1;30;;1;Adults;Yes;CD19;CD28
+3.214;1;30;;1;Adults;Yes;CD19;CD28
+3.214;1;30;;1;Adults;Yes;CD19;CD28
+3.609;1;30;;1;Adults;Yes;CD19;CD28
+4.435;1;30;;1;Adults;Yes;CD19;CD28
+4.435;1;30;;1;Adults;Yes;CD19;CD28
+4.901;1;30;;1;Adults;Yes;CD19;CD28
+4.989;0;30;;1;Adults;Yes;CD19;CD28
+5.952;1;30;;1;Adults;Yes;CD19;CD28
+5.963;1;30;;1;Adults;Yes;CD19;CD28
+6.066;1;30;;1;Adults;Yes;CD19;CD28
+6.844;1;30;;1;Adults;Yes;CD19;CD28
+7.468;0;30;;1;Adults;Yes;CD19;CD28
+8.228;1;30;;1;Adults;Yes;CD19;CD28
+8.713;1;30;;1;Adults;Yes;CD19;CD28
+8.926;1;30;;1;Adults;Yes;CD19;CD28
+9.177;1;30;;1;Adults;Yes;CD19;CD28
+10.796;1;30;;1;Adults;Yes;CD19;CD28
+11.047;1;30;;1;Adults;Yes;CD19;CD28
+12.048;0;30;;1;Adults;Yes;CD19;CD28
+12.504;1;30;;1;Adults;Yes;CD19;CD28
+12.721;1;30;;1;Adults;Yes;CD19;CD28
+12.776;1;30;;1;Adults;Yes;CD19;CD28
+14.006;0;30;;1;Adults;Yes;CD19;CD28
+15.368;1;30;;1;Adults;Yes;CD19;CD28
+15.996;0;30;;1;Adults;Yes;CD19;CD28
+16.577;1;30;;1;Adults;Yes;CD19;CD28
+16.577;1;30;;1;Adults;Yes;CD19;CD28
+17.042;1;30;;1;Adults;Yes;CD19;CD28
+17.979;0;30;;1;Adults;Yes;CD19;CD28
+20.204;1;30;;1;Adults;Yes;CD19;CD28
+20.846;1;30;;1;Adults;Yes;CD19;CD28
+21.723;0;30;;1;Adults;Yes;CD19;CD28
+23.349;0;30;;1;Adults;Yes;CD19;CD28
+23.421;1;30;;1;Adults;Yes;CD19;CD28
+23.593;1;30;;1;Adults;Yes;CD19;CD28
+24.998;0;30;;1;Adults;Yes;CD19;CD28
+26.64;0;30;;1;Adults;Yes;CD19;CD28
+28.281;0;30;;1;Adults;Yes;CD19;CD28
+34.964;0;30;;1;Adults;Yes;CD19;CD28
+36.249;1;30;;1;Adults;Yes;CD19;CD28
+42.579;0;30;;1;Adults;Yes;CD19;CD28
+45.041;0;30;;1;Adults;Yes;CD19;CD28
+47.504;0;30;;1;Adults;Yes;CD19;CD28
+55.242;0;30;;1;Adults;Yes;CD19;CD28
+62.511;0;30;;1;Adults;Yes;CD19;CD28
+0.43;1;31;;2;Both;Yes;CD19;41BB
+0.573;1;31;;2;Both;Yes;CD19;41BB
+1.86;1;31;;2;Both;Yes;CD19;41BB
+2.084;1;31;;2;Both;Yes;CD19;41BB
+2.295;0;31;;2;Both;Yes;CD19;41BB
+2.44;1;31;;2;Both;Yes;CD19;41BB
+2.566;0;31;;2;Both;Yes;CD19;41BB
+2.871;0;31;;2;Both;Yes;CD19;41BB
+3.159;0;31;;2;Both;Yes;CD19;41BB
+3.429;0;31;;2;Both;Yes;CD19;41BB
+3.806;0;31;;2;Both;Yes;CD19;41BB
+4.198;1;31;;2;Both;Yes;CD19;41BB
+4.434;0;31;;2;Both;Yes;CD19;41BB
+4.851;0;31;;2;Both;Yes;CD19;41BB
+5.211;0;31;;2;Both;Yes;CD19;41BB
+5.419;1;31;;2;Both;Yes;CD19;41BB
+5.62;0;31;;2;Both;Yes;CD19;41BB
+6.697;0;31;;2;Both;Yes;CD19;41BB
+6.931;1;31;;2;Both;Yes;CD19;41BB
+7.344;0;31;;2;Both;Yes;CD19;41BB
+8.192;0;31;;2;Both;Yes;CD19;41BB
+8.278;0;31;;2;Both;Yes;CD19;41BB
+8.425;0;31;;2;Both;Yes;CD19;41BB
+8.515;0;31;;2;Both;Yes;CD19;41BB
+8.704;0;31;;2;Both;Yes;CD19;41BB
+8.744;1;31;;2;Both;Yes;CD19;41BB
+8.744;1;31;;2;Both;Yes;CD19;41BB
+8.903;0;31;;2;Both;Yes;CD19;41BB
+8.996;0;31;;2;Both;Yes;CD19;41BB
+9.121;0;31;;2;Both;Yes;CD19;41BB
+9.265;0;31;;2;Both;Yes;CD19;41BB
+9.43;0;31;;2;Both;Yes;CD19;41BB
+9.521;0;31;;2;Both;Yes;CD19;41BB
+9.711;0;31;;2;Both;Yes;CD19;41BB
+9.906;0;31;;2;Both;Yes;CD19;41BB
+10.343;1;31;;2;Both;Yes;CD19;41BB
+10.406;0;31;;2;Both;Yes;CD19;41BB
+10.629;1;31;;2;Both;Yes;CD19;41BB
+10.648;0;31;;2;Both;Yes;CD19;41BB
+10.925;0;31;;2;Both;Yes;CD19;41BB
+11.006;1;31;;2;Both;Yes;CD19;41BB
+11.185;0;31;;2;Both;Yes;CD19;41BB
+11.44;0;31;;2;Both;Yes;CD19;41BB
+11.699;0;31;;2;Both;Yes;CD19;41BB
+11.957;1;31;;2;Both;Yes;CD19;41BB
+12.249;0;31;;2;Both;Yes;CD19;41BB
+12.4;0;31;;2;Both;Yes;CD19;41BB
+12.589;0;31;;2;Both;Yes;CD19;41BB
+12.784;0;31;;2;Both;Yes;CD19;41BB
+12.981;0;31;;2;Both;Yes;CD19;41BB
+13.197;0;31;;2;Both;Yes;CD19;41BB
+13.389;0;31;;2;Both;Yes;CD19;41BB
+13.447;1;31;;2;Both;Yes;CD19;41BB
+13.591;0;31;;2;Both;Yes;CD19;41BB
+13.77;0;31;;2;Both;Yes;CD19;41BB
+14.238;0;31;;2;Both;Yes;CD19;41BB
+14.489;0;31;;2;Both;Yes;CD19;41BB
+14.795;0;31;;2;Both;Yes;CD19;41BB
+15.028;0;31;;2;Both;Yes;CD19;41BB
+15.279;0;31;;2;Both;Yes;CD19;41BB
+15.368;1;31;;2;Both;Yes;CD19;41BB
+15.493;0;31;;2;Both;Yes;CD19;41BB
+15.677;0;31;;2;Both;Yes;CD19;41BB
+16.5;0;31;;2;Both;Yes;CD19;41BB
+16.803;1;31;;2;Both;Yes;CD19;41BB
+17;0;31;;2;Both;Yes;CD19;41BB
+17.5;0;31;;2;Both;Yes;CD19;41BB
+18.076;1;31;;2;Both;Yes;CD19;41BB
+18.443;0;31;;2;Both;Yes;CD19;41BB
+18.831;0;31;;2;Both;Yes;CD19;41BB
+19.22;0;31;;2;Both;Yes;CD19;41BB
+19.31;1;31;;2;Both;Yes;CD19;41BB
+19.616;0;31;;2;Both;Yes;CD19;41BB
+20.406;0;31;;2;Both;Yes;CD19;41BB
+20.766;0;31;;2;Both;Yes;CD19;41BB
+1.457;1;34;;1_2;Both;Yes;CD19;41BB
+1.512;0;34;;1_2;Both;Yes;CD19;41BB
+2.372;1;34;;1_2;Both;Yes;CD19;41BB
+2.668;1;34;;1_2;Both;Yes;CD19;41BB
+3.262;1;34;;1_2;Both;Yes;CD19;41BB
+3.603;0;34;;1_2;Both;Yes;CD19;41BB
+4.112;1;34;;1_2;Both;Yes;CD19;41BB
+4.195;0;34;;1_2;Both;Yes;CD19;41BB
+4.536;1;34;;1_2;Both;Yes;CD19;41BB
+4.749;0;34;;1_2;Both;Yes;CD19;41BB
+5.302;0;34;;1_2;Both;Yes;CD19;41BB
+6.612;0;34;;1_2;Both;Yes;CD19;41BB
+6.892;0;34;;1_2;Both;Yes;CD19;41BB
+7.174;0;34;;1_2;Both;Yes;CD19;41BB
+7.323;1;34;;1_2;Both;Yes;CD19;41BB
+7.471;0;34;;1_2;Both;Yes;CD19;41BB
+7.769;0;34;;1_2;Both;Yes;CD19;41BB
+8.067;0;34;;1_2;Both;Yes;CD19;41BB
+8.36;0;34;;1_2;Both;Yes;CD19;41BB
+8.663;0;34;;1_2;Both;Yes;CD19;41BB
+9.429;0;34;;1_2;Both;Yes;CD19;41BB
+9.855;0;34;;1_2;Both;Yes;CD19;41BB
+10.281;0;34;;1_2;Both;Yes;CD19;41BB
+10.707;0;34;;1_2;Both;Yes;CD19;41BB
+11.135;0;34;;1_2;Both;Yes;CD19;41BB
+11.498;0;34;;1_2;Both;Yes;CD19;41BB
+13.005;0;34;;1_2;Both;Yes;CD19;41BB
+13.984;0;34;;1_2;Both;Yes;CD19;41BB
+16.496;0;34;;1_2;Both;Yes;CD19;41BB
+23.901;0;34;;1_2;Both;Yes;CD19;41BB
